@@ -1,0 +1,6 @@
+- 👋 Oi, meu nome é @AntonioDalaManassa. 
+- 👀 Eu estou interessado em criar um sistema de rede de computadores 100% automática gerida por inteligência artificial. 
+- 🌱 Atualmente estou aprendendo computação em novem.
+- 💞️ Estou procurando colaborar em  e ciência de dados, e todo conhecimento baseado em aprendizagem de inteligência artificial. 
+- 📫 Para entrar em contato comigo envia um email para: antoniodalamanassahelio@gmail.com
+- ⚡ Curiosidade: Este um projeto individual e sem lucrativos, pelo menos não nesta fase de desenvolvimento, atualmente é só uma ideia a ser estrutura e simulada em aplicações de simulação de redes de computadores. 
